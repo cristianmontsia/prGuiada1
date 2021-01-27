@@ -8,7 +8,7 @@ public class PrGuiada1{
 			bw.write("<html>");bw.newLine();
 			bw.write(" <head>");bw.newLine();
 			bw.write(" <title>");bw.newLine();
-			bw.write(" Projecte inicial");
+			bw.write(" Codi de la nova branca");
 			bw.newLine();
 			bw.write(" </title>");bw.newLine();
 			bw.write(" </head>");bw.newLine();
